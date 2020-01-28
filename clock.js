@@ -15,7 +15,8 @@ function getTime() {
 
     // 리터럴 문법
     // clockTitle.innerText = 
-    //  '${hours < 10 ? '0${hours}' : hours}:${minutes < 10 ? '0${minutes}' : minutes}:${seconds < 10 ? '0${seconds}' : seconds}';
+    // '' 작은 따옴표 아님 숫자키 1 옆 ` ` 이거임.
+    //  `${hours < 10 ? `0${hours}` : hours}:${minutes < 10 ? `0${minutes}` : minutes}:${seconds < 10 ? `0${seconds}` : seconds}`;
 }
 
 function init () {

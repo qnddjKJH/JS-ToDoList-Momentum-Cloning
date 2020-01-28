@@ -57,7 +57,7 @@ function paintToDo(text) {
     li.appendChild(span);
     li.appendChild(delBtn);
     li.id = newId; // 각각의 li 에도 id 값 부여.
-
+    li.classList = "toDo"
     // 만들어진 리스트를 toDoList 에 추가하여 화면에 출력한다.
     toDoList.appendChild(li);
 
