@@ -8,4 +8,4 @@ Momentum App 을 Javascript 를 사용하여 Cloning 하며 저장하기 위한 
  * ES6
 
 # TODO
- [ ] 3.6강 부터 3.11강 까지 완주
+ [x] 3.6강 부터 3.11강 까지 완주
