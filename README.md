@@ -8,5 +8,5 @@ Momentum App 을 Javascript 를 사용하여 Cloning 하며 저장하기 위한 
  * ES6
 
 # TODO
- [V] 3.8강 부터 3.11강 까지 완주
+ [x] 3.8강 부터 3.11강 까지 완주  
  [ ] HTML, CSS3 수정 할 것 (추후 공부를 더 해서 할 예정)
